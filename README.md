@@ -1,31 +1,41 @@
-# 🤖 Bot Multifunções AMP
+# Bot Multifunções AMP
 
-Bot multifunções para Discord, desenvolvido para reunir ferramentas de moderação, utilidades e sistemas de gerenciamento em um único bot.
+Bot para Discord com ferramentas de moderação, administração, atendimento e utilidades em um só lugar.
 
-## ✨ Sobre o projeto
+## O que já tem
 
-O **Bot Multifunções AMP** foi pensado para facilitar a administração e a organização de servidores Discord, oferecendo recursos práticos em uma plataforma centralizada.
+- Comando de ping e latência
+- Informações do servidor
+- Informações de usuários
+- Limpeza de mensagens
+- Menu de ajuda
+- Comandos slash
+- Configuração por arquivo `.env`
 
-## 🛠️ Recursos planejados
+## Próximos sistemas
 
-- 🛡️ Moderação e gerenciamento do servidor
-- 🎫 Sistema de tickets e atendimento
-- 👋 Mensagens de entrada e saída
-- 🔧 Comandos de utilidade
-- 📋 Informações e comandos administrativos
-- 🤖 Automações para servidores
-- ⚙️ Configurações personalizáveis
+A ideia do AMP é reunir os principais recursos usados em bots de Discord, com sistemas próprios e configuração simples.
 
-## 📌 Status
+Entre os recursos previstos estão:
 
-> 🚧 Projeto em desenvolvimento.
+- Moderação e segurança
+- Tickets e atendimento
+- Logs
+- Verificação
+- Boas-vindas e despedidas
+- Sorteios
+- Economia e sistema de níveis
+- Automações
+- Ferramentas para servidores de vendas e comunidades
 
-Novos recursos e melhorias serão adicionados conforme o desenvolvimento avançar.
+## Instalação
 
-## 👨‍💻 Desenvolvedor
+1. Instale o Node.js 18.17 ou superior.
+2. Execute `npm install`.
+3. Crie um arquivo `.env` seguindo o modelo de `.env.example`.
+4. Preencha o token e o ID da aplicação.
+5. Inicie com `npm start`.
 
-**Desenvolvido por Dvyson Ywre**
+## Desenvolvedor
 
-## 📄 Licença
-
-Este projeto possui finalidade educacional e de desenvolvimento. Consulte os arquivos do repositório para informações adicionais sobre uso e distribuição.
+Desenvolvido por Dvyson Ywre.
