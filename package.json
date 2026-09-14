@@ -1,11 +1,11 @@
 {
   "name": "bot-multifuncoes-amp",
-  "version": "2.0.0",
-  "description": "Bot multifunções para Discord.",
-  "main": "src/index.js",
+  "version": "3.0.0",
+  "description": "Bot multifuncional e customizável para Discord, com foco em vendas, tickets, segurança e moderação.",
+  "main": "src/main.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "node --watch src/index.js"
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js"
   },
   "engines": { "node": ">=18.17.0" },
   "dependencies": {
